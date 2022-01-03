@@ -7,3 +7,18 @@ h1{
     width: 50%;
     padding: 10px;
 }
+div p{
+
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    border-bottom: 5px solid sienna;
+    background-color: slategrey;
+    color: rgb(6, 6, 78);
+    border-radius: 20px;
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
